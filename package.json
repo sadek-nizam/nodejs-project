@@ -1,0 +1,11 @@
+{
+  "name": "nodjs-project",
+  "subdomain": "sadek-nodejs",
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "0.0.0-5",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
